@@ -6,9 +6,9 @@
 |---|---|---|
 | University | [SJSU UNIVERSITY]( http://www.sjsu.edu/) |
 | Course | CMPE-257 Sec 01 - Machine Learning|
-|Professor| [Dr.Ali Arsanjani](ali.arsanjani@sjsu.edu) |
+|Professor| [Dr. Ali Arsanjani](ali.arsanjani@sjsu.edu) |
 | TEAM Name | ML Learners |
-| Contributors Name ||     [Rupal Martin](https://www.linkedin.com/in/rupal-martin//)  |   | 
+| Contributors Name |[Rupal Martin](https://www.linkedin.com/in/rupal-martin//)  |   | 
 
  ## Feature Implemented
 - State Info
