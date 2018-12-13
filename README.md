@@ -3,7 +3,7 @@
 Individual contribution towards the project
 
 |Name | Detail| |
-|---|---|---|
+|---|---|
 | University | [SJSU UNIVERSITY]( http://www.sjsu.edu/) |
 | Course | CMPE-257 Sec 01 - Machine Learning|
 |Professor| [Dr. Ali Arsanjani](ali.arsanjani@sjsu.edu) |
