@@ -5,10 +5,10 @@ Individual contribution towards the project
 |Name | Detail| |
 |---|---|---|
 | University | [SJSU UNIVERSITY]( http://www.sjsu.edu/) |
-| Course | [CMPE-257 Sec 01 - Machine Learning]|
+| Course | CMPE-257 Sec 01 - Machine Learning|
 |Professor| [Dr. Ali Arsanjani](ali.arsanjani@sjsu.edu) |
 | TEAM Name | ML- Learners |
-|     [Rupal Martin](https://www.linkedin.com/in/rupal-martin/)  |  Add Card API
+| Name |[Rupal Martin](https://www.linkedin.com/in/rupal-martin/)  | 
 
 > By Rupal Martin
 
