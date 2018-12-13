@@ -1,6 +1,8 @@
 # AlternusVera
 
 Individual contribution towards the project
+
+> By Rupal Martin
 ---
 
 #### Process Steps: 
