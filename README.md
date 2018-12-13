@@ -1,14 +1,12 @@
 # AlternusVera
 
-Individual contribution towards the project
-
 |Name | Detail| |
 |---|---|---|
 | University | [SJSU UNIVERSITY]( http://www.sjsu.edu/) |
 | Course | CMPE-257 Sec 01 - Machine Learning|
 |Professor| [Dr. Ali Arsanjani](ali.arsanjani@sjsu.edu) |
 | TEAM Name | ML- Learners |
-| Name |[Rupal Martin](https://www.linkedin.com/in/rupal-martin/)  | 
+| Contributor Name |[Rupal Martin](https://www.linkedin.com/in/rupal-martin/)  | 
 
 #### Process Steps: 
 - Importing libraries and reading the Data 
