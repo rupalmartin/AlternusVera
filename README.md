@@ -31,7 +31,7 @@ Individual contribution towards the project
 - Final result 
 
 
- Feature Implemented
+ ## Feature Implemented
 - State Info
 - Sentiments
 - Speaker
