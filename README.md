@@ -8,6 +8,11 @@
 | TEAM Name | ML- Learners |
 | Contributor Name |[Rupal Martin](https://www.linkedin.com/in/rupal-martin/)  | 
 
+ ## Feature Implemented
+- State Info
+- Sentiments
+- Speaker
+
 #### Process Steps: 
 - Importing libraries and reading the Data 
 - Data Cleaning and Text Preprocessing 
@@ -34,13 +39,4 @@
     - Building Classifier using RandomForestClassifier
     - Building Classifier using SVM Stochastic Gradient Descent
 - Final result 
-
-
- ## Feature Implemented
-- State Info
-- Sentiments
-- Speaker
-
-
-
 
